@@ -1,0 +1,32 @@
+.two{
+    text-align:center;
+    background-color:black;
+}
+.two ul{
+    display:inline-flex;
+    color:floralwhite;
+}
+.two ul li{
+    font-family:Impact;
+    width:120px;
+    margin:15px;
+    padding:15px;
+}
+.two ul li:hover{
+    background-color:gray;
+    border-radius:10px;
+    cursor:pointer;
+}
+.one{
+    display:flex;
+    justify-content:space-around;
+    gap:30px;
+}
+.menu{
+    margin:50px;
+    padding:20px;
+    background-color:peachpuff;
+}
+body{
+    background-color: rgb(47, 159, 163);
+}
